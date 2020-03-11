@@ -1,4 +1,4 @@
-# I3D models trained on Kinetics
+# I3D models trained on ~~Kinetics~~ UCF101
 
 ## Overview
 
